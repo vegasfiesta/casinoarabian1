@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 3,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -66,7 +68,7 @@
           },
           "title": "أفضل كازينو على الانترنت",
           "text": "<span style=\"font-style: normal;\">م<b>ضاعفة الرهانات الخاصة بك تصل إلى $ </b>300</span>0 &nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">اللعب على الهاتف المحمول</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">اللعب على سطح المكتب</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">اللعب على الهاتف المحمول</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">اللعب على سطح المكتب</a>"
         },
         {
           "_styles": {
@@ -152,7 +154,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/pVzjsC\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goo.gl/pVzjsC\">SUPPORT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4126169?tracker=015b331e817804aa01000001\" target=\"_blank\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">SUPPORT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4126169?tracker=015b331e817804aa01000001\" target=\"_blank\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -197,7 +199,7 @@
           "title1": "التليفون المحمول",
           "subtitle1": "",
           "caption1": "أفضل منصة متنقلة من القمار على الانترنت<br>تلعب لعبة المفضلة لديك اليوم على الهاتف المحمول الخاص بك<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">معلومات اكثر</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">معلومات اكثر</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
@@ -213,7 +215,7 @@
           "title2": "ماكينات القمار",
           "subtitle2": "",
           "caption2": "<br>مجموعة كبيرة من ماكينات القمار. أكثر من 200 مباراة!<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">معلومات اكثر</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">معلومات اكثر</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x398.jpg",
@@ -229,7 +231,7 @@
           "title3": "ألعاب الطاولة",
           "subtitle3": "",
           "caption3": "<br>ومجموعة مختارة من الألعاب لتجربة ممتعة<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">معلومات اكثر</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">معلومات اكثر</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
@@ -245,7 +247,7 @@
           "title4": "علاوة",
           "subtitle4": "",
           "caption4": "ويقدم الكازينو عددا من المكافآت لتجعل تجربتك أكثر متعة<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">معلومات اكثر</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">معلومات اكثر</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
